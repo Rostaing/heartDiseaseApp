@@ -86,7 +86,7 @@ hide_menu = """
 #   st.stop()
 
     
-model = pickle.load(open('C:/Users/Rostaing/Desktop/Data Science/DataScienceProjects/head_disease.sav', 'rb'))
+model = pickle.load(open('model/heat_disease.sav', 'rb'))
 
 
 
