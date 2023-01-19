@@ -7,6 +7,9 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from streamlit_option_menu import option_menu
+
+# pipreqs --encoding=utf8
+
 # from pivottablejs import pivot_ui
 from scipy import stats
 import datetime
