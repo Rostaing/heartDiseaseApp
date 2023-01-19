@@ -1,5 +1,5 @@
 import streamlit as st
-from st_aggrid import AgGrid
+# from st_aggrid import AgGrid
 import plotly.express as px
 import pickle
 import  pandas as pd
